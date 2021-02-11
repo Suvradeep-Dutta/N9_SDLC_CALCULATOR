@@ -4,36 +4,53 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 
 # High Level Requirements
 
-. Maximum input digits user can enter is upto 12 digits
+1) Maximum input digits a user can enter is upto 12 digits.
 
-. Trignometric And Inverse Trignometric Functions
+2) Arithmetic Operations
 
-. Measurements conversion(km,cm,inch,etc)
+3) Exponential and Logarithmic Operations.
 
-. weight conversion(kilogram,litre etc)
+4) Square roots and powers.
 
-. mixed to improper fractions
+5) Permutation and Combination.
 
-. cube and cube root
+6) Finding area and perimeter of different geometrical shapes like circle, square and rectangle.
 
-. Temperature conversion
+7) Trignometric And Inverse Trignometric Functions.
 
-. fraction arithmetic operations(+,-,*,/)
+8) Measurements conversion (km,cm,inch,etc).
 
-. calculation of Reminder
+9) weight conversion (kilogram,litre etc).
 
-. calculation of simple interest
+10) Mixed to improper fractions.
+
+11) Cube and cube root.
+
+12) Temperature conversion.
+
+13) Arithmetic operations of fractions. (+,-,*,/)
+
+14) Calculation of Reminder.
+
+15) Calculation of simple interest.
 
 ## Low Level Requirements
 
-. using float for Decimal values
+1) Exponential operation (result=b^x where b=base and x=exponent. Input type : integer and float) 
+   Logarithmic operation (result=log(x) where the input type of x is integer or float) 
 
-. using int for Integer values
+2) Area and perimeter of different geometrical shapes (The input data type used in the scenario are integer and float)
 
-. using Double
+3) Permutation and Combination (result=nPr; input type : integer and result=nCr; input type: integer)
 
-. calculation of reminder using modulus operator
+4) using float for Decimal values
 
-. using aithmetic operators for calculation of simple interest
+5) using int for Integer values
+
+6) using Double
+
+7) calculation of reminder using modulus operator
+
+8) using aithmetic operators for calculation of simple interest
 
 
