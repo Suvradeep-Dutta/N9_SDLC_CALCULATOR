@@ -57,3 +57,7 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 
 9) For exponential if choisex=3; choise y=2; calculate x^Y
 
+10) For differentiation if input =H CALCULATE "H" factorial
+
+11) For Calculus  if input = enter variable caluclates integration
+
