@@ -66,3 +66,4 @@ printf("cos=%f",cosi);
     }
  return 0;
 }
+///commented for test
