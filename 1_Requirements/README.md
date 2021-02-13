@@ -34,8 +34,6 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 
 15) Calculation of simple interest.
 
-16) Binary to Decimal
-
 ## Low Level Requirements
 
 1) Exponential operation (result=b^x where b=base and x=exponent. Input type : integer and float) 
