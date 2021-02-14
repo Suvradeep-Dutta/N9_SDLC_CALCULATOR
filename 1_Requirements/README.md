@@ -34,6 +34,11 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 
 15) Calculation of simple interest.
 
+16) Arithmetic operations
+
+17) calculus and exponential
+
+
 ## Low Level Requirements
 
 1) Exponential operation (result=b^x where b=base and x=exponent. Input type : integer and float) 
@@ -52,5 +57,21 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 7) calculation of reminder using modulus operator
 
 8) using aithmetic operators for calculation of simple interest
+
+9) using required  inputs performing addition operation
+
+10) using required  inputs performing subraction operation
+
+11) using required  inputs performing division operation
+
+12) using required  inputs performing multiplication operation
+
+13) if choise x=3,choise y=2 calculate x^y
+
+14) if input =H calculate "H" fractorial 
+
+15) if input = enter variables calculate diffrentiation
+
+16) if input = enter variables calculate integration 
 
 
