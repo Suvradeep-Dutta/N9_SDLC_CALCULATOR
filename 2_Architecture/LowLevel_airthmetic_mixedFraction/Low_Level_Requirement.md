@@ -9,3 +9,6 @@ Low Level Requirement Diagrams For binary to decimal conversion.
 
 99003784_Souvik
 
+Low level requirement diagrams for log, exponent and power.
+
+![LOW_LEVEL_REQUIREMENT_CLASS_DIAGRAM_99003784](https://user-images.githubusercontent.com/78857077/107885585-347ad080-6f21-11eb-825f-1043f146a3e5.png)
